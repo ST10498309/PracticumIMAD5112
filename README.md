@@ -3,6 +3,10 @@ ST10498309-Shania Kuni
 
 **The code **
 
+The purpose of the Musica App is to allow users to create playlists freely as well as add the name of the artist,Users can also rate the song out of 5, And they can comment on the song of their choice. 
+Musica is also able to calculate the average of the ratings for each playlist created, Musica is an easy to navigate app for people who love music.
+You can add as many playlists as you like with songs of 4 and musica has the option for you to start over making it reusable. 
+
 ![1](https://github.com/user-attachments/assets/6c0c9113-72b2-44c9-bb14-62e5d4b30382)
 Image 1: showing code of the main screen (Main Activity) 
 
