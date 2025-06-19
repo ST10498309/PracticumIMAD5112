@@ -1,7 +1,7 @@
 # PracticumIMAD5112
 ST10498309-Shania Kuni 
 
-**The code **
+****The code ****:https://github.com/ST10498309/PracticumIMAD5112/tree/main/Music
 
 The purpose of the Musica App is to allow users to create playlists freely as well as add the name of the artist,Users can also rate the song out of 5, And they can comment on the song of their choice. 
 Musica is also able to calculate the average of the ratings for each playlist created, Musica is an easy to navigate app for people who love music.
