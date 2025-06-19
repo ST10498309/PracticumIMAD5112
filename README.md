@@ -1,7 +1,7 @@
 # PracticumIMAD5112
 ST10498309-Shania Kuni 
 
-****The code ****:https://github.com/ST10498309/PracticumIMAD5112/tree/main/Music
+_THE CODE_ :https://github.com/ST10498309/PracticumIMAD5112/tree/main/Music
 
 The purpose of the Musica App is to allow users to create playlists freely as well as add the name of the artist,Users can also rate the song out of 5, And they can comment on the song of their choice. 
 Musica is also able to calculate the average of the ratings for each playlist created, Musica is an easy to navigate app for people who love music.
@@ -19,23 +19,33 @@ Image 3: Main Activity 2 Code
 ![4](https://github.com/user-attachments/assets/2c45e441-907e-432d-9d89-1aee045c27c3)
 Image 4 : Continuation of image 3 
 
+![Image of main screen ](https://github.com/user-attachments/assets/38132d2c-ca44-4a06-8303-a56d653014ff)
+Image 5: Image of Main Screen 
+
+![Display Screen ](https://github.com/user-attachments/assets/e7cda441-3878-4143-a708-526304be40ca)
+Image 6: Image of Dsiplay Screen 
+
 ![5](https://github.com/user-attachments/assets/3f1d9fa3-5550-43b9-9598-c752ffb1fe3e)
-Image 5: Musica App on the emulator 
+Image 6: Musica App on the emulator 
 
 ![6](https://github.com/user-attachments/assets/465d88d9-2cee-481b-a2ab-c07b4fbf7cac)
-Image 6: Picture of the Musica App, Shwoing its various functions. The user can add their liked song for their playlist, As well as the name of the artist and how much they rate it out of 5.
+Image 7: Picture of the Musica App, Shwoing its various functions. The user can add their liked song for their playlist, As well as the name of the artist and how much they rate it out of 5.
 
 ![7](https://github.com/user-attachments/assets/c4dd6264-de21-4331-8c1f-0aa53daf524a)
-Image 7: User Input 
+Image 8: User Input 
 
 ![8](https://github.com/user-attachments/assets/4e5273eb-113b-4110-b71b-601e1db28ec5)
-Image 8: The second screen, when the user presses next they are given the next screen. 
+Image 9: The second screen, when the user presses next they are given the next screen. 
 
 ![9](https://github.com/user-attachments/assets/f1efbe30-2ef2-4e4a-84d2-729a8d07bb67)
-Image 9: The User is given the second screen 
+Image 10: The User is given the second screen 
 
 ![10](https://github.com/user-attachments/assets/b0857182-25e8-4392-b87c-9ccfd0e04a39)
-Image 10: What the second screen displays 
+Image 11: What the second screen displays 
+
+_References_:
+Module Manual The independent institution of Education, 2024, Introduction to mobile application development: Module manual 2025( first edition). The independent Institution of education.
+Google (n.d.). Google. [online] Google.com. Available at: https://www.google.com/.
 
 
 
